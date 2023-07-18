@@ -195,12 +195,12 @@ Nᴀᴍᴇ - {}"""
 
 <b>
 ╭─────── • ◆ • ───────╮
-🔅 Join :  <a href="https://t.me/MovieTimeOfficiallls">Tᴏᴜᴄʜ</a>
+🔅 Join :  <a href="https://t.me/MovieTimeOfficiallls">Join</a>
 ╰─────── • ◆ • ───────╯
 
 =========== • ✠ • ===========
 ▫️ ᴄʜᴀɴɴᴇʟ : @MovieTimeOfficiallz
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : MovieTimeOfficiallls
+▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @MovieTimeOfficiallls
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
@@ -235,7 +235,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 
     RESTART_TXT = """
 <b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
-
+👨‍💻Dev  : @SPA4KBRO
 📅 Dᴀᴛᴇ : <code>{}</code>
 ⏰ Tɪᴍᴇ : <code>{}</code>
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
