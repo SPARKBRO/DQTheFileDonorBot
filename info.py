@@ -13,17 +13,17 @@ def is_enabled(value, default):
 
 # Bot information
 SESSION = environ.get('SESSION', 'Media_search')
-API_ID = int(environ.get('API_ID', '1923471'))
-API_HASH = environ.get('API_HASH', 'fcdc178451cd234e63faefd38895c991')
-BOT_TOKEN = environ.get('BOT_TOKEN', "6023399726:AAGZV_TJn9pEw5JxIMS0TXtT0SVmLoJKG7w")
+API_ID = int(environ.get('API_ID', '19517098'))
+API_HASH = environ.get('API_HASH', '064100a1cb729dfb0436aaee64fd9d58')
+BOT_TOKEN = environ.get('BOT_TOKEN', "")
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = is_enabled((environ.get('USE_CAPTION_FILTER', 'True')), True)
 
-PICS = (environ.get('PICS', 'https://telegra.ph/file/a253cfe15a6f735354afc.jpg')).split()
+PICS = (environ.get('PICS', 'https://telegra.ph/file/a253cfe15a6f735354afc.jpg https://telegra.ph/file/6112a3375fad5662ea3b5.jpg')).split()
 NOR_IMG = environ.get("NOR_IMG", "https://telegra.ph/file/15fd9eccb056b4c0de117.jpg")
-MELCOW_VID = environ.get("MELCOW_VID", "https://telegra.ph/file/451f038b4e7c2ddd10dc0.mp4")
+MELCOW_VID = environ.get("MELCOW_VID", "https://telegra.ph/file/92ac3d639d53f727fe379.mp4")
 SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/15fd9eccb056b4c0de117.jpg")
 
 # Admins, Channels & Users
